@@ -5,5 +5,8 @@ public class LoginPage {
 	{
 		System.out.println("This is Login Page");
 	}
-
+	public void logout()
+	{
+		System.out.println("This is Logout button");
+	}
 }
